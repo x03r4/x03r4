@@ -4,7 +4,7 @@
 -->
 
 <img src="https://github.com/x03r4/x03r4/blob/master/banner1.png">
-☕️ I’m currently working on personal portfolio. 😎
+- I’m currently working on personal portfolio. -
 <!--
 **x03r4/x03r4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
