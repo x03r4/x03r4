@@ -5,7 +5,6 @@
 
 <img src="https://github.com/x03r4/x03r4/blob/master/banner1.png">
 - I’m currently working on personal portfolio. -
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bc1c5f34-f276-437f-9bb2-dbd6e297de66/deploy-status)](https://app.netlify.com/sites/objective-lamport-905552/deploys)
 <!--
 **x03r4/x03r4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
